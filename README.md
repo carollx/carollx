@@ -5,9 +5,9 @@
 
 - 📫 How to reach me **carola198@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carollx&show_icons=true&locale=en" alt="carollx" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=carollx&show_icons=true&locale=en" alt="carollx" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carollx&show_icons=true&locale=en&layout=compact" alt="carollx" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carollx&show_icons=true&locale=en&layout=compact" alt="carollx" /></p>
 
 ##
 
